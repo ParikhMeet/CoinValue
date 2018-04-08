@@ -11,5 +11,8 @@
   "dependencies": {
     "http": "0.0.0",
     "https": "^1.0.0"
+  },
+  "devDependencies": {
+    "@types/node": "^9.6.2"
   }
 }
